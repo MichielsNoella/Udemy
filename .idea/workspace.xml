@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="Section 3 : The Basics">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Udemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shared/ingredients.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-components-solution/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-components/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/how-to-use.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/server/server.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/server/server.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/servers/servers.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/servers/servers.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/servers/servers.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-databinding/tslint.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="C:\javadev\tools\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.7" />
+        <option name="keepSourceFolders" value="false" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ioyBEfvm7jWexQSd4yAF6u9oY5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\javadev\gitHub\Udemy\basics-databinding-solution\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="E2E Tests (ComponentsSolution1)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/basics-components-solution/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (basics-components)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/basics-components/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/basics-components-solution/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\michiels.n\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/basics-components" />
+      <path value="$PROJECT_DIR$/basics-components-solution" />
+      <path value="$PROJECT_DIR$/basics-databinding" />
+    </ignored-roots>
+    <MESSAGE value="change title" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="Section 3 : The Basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 3 : The Basics" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2506" y="138" key="#Inspections" timestamp="1602755013329">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state x="2506" y="138" key="#Inspections/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1602755013329" />
+    <state x="2660" y="201" key="FileChooserDialogImpl" timestamp="1603087957815">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="201" key="FileChooserDialogImpl/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603087957815" />
+    <state x="2758" y="357" key="Github.ShareDialog" timestamp="1602597931643">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state x="2758" y="357" key="Github.ShareDialog/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1602597931643" />
+    <state x="2703" y="156" width="623" height="618" key="Github.UntrackedFilesDialog" timestamp="1602597776074">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state x="2703" y="156" width="623" height="618" key="Github.UntrackedFilesDialog/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1602597776074" />
+    <state x="2381" y="104" key="SettingsEditor" timestamp="1603087965552">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="104" key="SettingsEditor/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603087965552" />
+    <state x="2472" y="192" key="Vcs.Push.Dialog.v2" timestamp="1602769989566">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="192" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1602769989566" />
+    <state x="2543" y="165" key="search.everywhere.popup" timestamp="1602761569159">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="165" key="search.everywhere.popup/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1602761569159" />
+    <state x="2710" y="250" key="svn.repositoryBrowser" timestamp="1602597878891">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state x="2710" y="250" key="svn.repositoryBrowser/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1602597878891" />
+  </component>
+</project>
