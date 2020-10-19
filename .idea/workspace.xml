@@ -14,66 +14,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="Section 3 : The Basics">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Udemy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shared/ingredients.model.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-components-solution/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-components/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/server/server.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/server/server.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/servers/servers.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/servers/servers.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/app/servers/servers.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics-databinding/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/how-to-use.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debugging/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,14 +170,30 @@
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
     <state x="2703" y="156" width="623" height="618" key="Github.UntrackedFilesDialog/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1602597776074" />
+    <state width="938" height="274" key="GridCell.Tab.0.bottom" timestamp="1603106641110">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state width="938" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603106641110" />
+    <state width="938" height="274" key="GridCell.Tab.0.center" timestamp="1603106641109">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state width="938" height="274" key="GridCell.Tab.0.center/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603106641109" />
+    <state width="938" height="274" key="GridCell.Tab.0.left" timestamp="1603106641109">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state width="938" height="274" key="GridCell.Tab.0.left/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603106641109" />
+    <state width="938" height="274" key="GridCell.Tab.0.right" timestamp="1603106641110">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state width="938" height="274" key="GridCell.Tab.0.right/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603106641109" />
     <state x="2381" y="104" key="SettingsEditor" timestamp="1603087965552">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
     <state x="2381" y="104" key="SettingsEditor/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603087965552" />
-    <state x="2472" y="192" key="Vcs.Push.Dialog.v2" timestamp="1602769989566">
+    <state x="2472" y="192" key="Vcs.Push.Dialog.v2" timestamp="1603105129982">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
-    <state x="2472" y="192" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1602769989566" />
+    <state x="2472" y="192" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603105129982" />
     <state x="2543" y="165" key="search.everywhere.popup" timestamp="1602761569159">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
