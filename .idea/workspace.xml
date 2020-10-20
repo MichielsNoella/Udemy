@@ -14,40 +14,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="Sectie 4 : Debugging">
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/app/server-element/server-element.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/app/server-element/server-element.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/app/server-element/server-element.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/how-to-use.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/even/even.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/even/even.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/even/even.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/game-control/game-control.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/game-control/game-control.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/game-control/game-control.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/odd/odd.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/odd/odd.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/odd/odd.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +84,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -90,7 +98,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="C:\javadev\gitHub\Udemy\basics-databinding-solution\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\javadev\gitHub\Udemy\basics-directives-solution\node_modules\typescript\lib" />
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration name="E2E Tests (ComponentsSolution1)" type="JavaScriptTestRunnerProtractor">
@@ -178,22 +186,22 @@
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
     <state x="2703" y="156" width="623" height="618" key="Github.UntrackedFilesDialog/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1602597776074" />
-    <state width="938" height="274" key="GridCell.Tab.0.bottom" timestamp="1603113813555">
+    <state width="938" height="274" key="GridCell.Tab.0.bottom" timestamp="1603187546806">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
-    <state width="938" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603113813555" />
-    <state width="938" height="274" key="GridCell.Tab.0.center" timestamp="1603113813554">
+    <state width="938" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603187546806" />
+    <state width="938" height="274" key="GridCell.Tab.0.center" timestamp="1603187546806">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
-    <state width="938" height="274" key="GridCell.Tab.0.center/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603113813554" />
-    <state width="938" height="274" key="GridCell.Tab.0.left" timestamp="1603113813554">
+    <state width="938" height="274" key="GridCell.Tab.0.center/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603187546806" />
+    <state width="938" height="274" key="GridCell.Tab.0.left" timestamp="1603187546806">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
-    <state width="938" height="274" key="GridCell.Tab.0.left/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603113813554" />
-    <state width="938" height="274" key="GridCell.Tab.0.right" timestamp="1603113813554">
+    <state width="938" height="274" key="GridCell.Tab.0.left/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603187546806" />
+    <state width="938" height="274" key="GridCell.Tab.0.right" timestamp="1603187546806">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
-    <state width="938" height="274" key="GridCell.Tab.0.right/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603113813554" />
+    <state width="938" height="274" key="GridCell.Tab.0.right/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603187546806" />
     <state x="2381" y="104" key="SettingsEditor" timestamp="1603087965552">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
