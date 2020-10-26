@@ -14,48 +14,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="Sectie 4 : Debugging">
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/even/even.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/even/even.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/even/even.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/game-control/game-control.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/game-control/game-control.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/game-control/game-control.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/odd/odd.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/odd/odd.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/app/odd/odd.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmp-databinding-assignment-solution/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/header/header.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/tslint.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +61,6 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -98,7 +74,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="C:\javadev\gitHub\Udemy\basics-directives-solution\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\javadev\gitHub\Udemy\basics-databinding-solution\node_modules\typescript\lib" />
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration name="E2E Tests (ComponentsSolution1)" type="JavaScriptTestRunnerProtractor">
@@ -163,7 +139,9 @@
     <MESSAGE value="Section 3 : The Basics" />
     <MESSAGE value="Sectie 4 : Debugging" />
     <MESSAGE value="Sectie 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sectie 5" />
+    <MESSAGE value="Solution section 5" />
+    <MESSAGE value="section 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2506" y="138" key="#Inspections" timestamp="1602755013329">
@@ -174,6 +152,10 @@
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
     <state x="2749" y="370" key="#TSLint/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603185580578" />
+    <state x="2023" y="121" width="1736" height="856" key="DiffContextDialog" timestamp="1603357695586">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state x="2023" y="121" width="1736" height="856" key="DiffContextDialog/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603357695586" />
     <state x="2660" y="201" key="FileChooserDialogImpl" timestamp="1603109044808">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
@@ -210,10 +192,15 @@
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
     <state x="2472" y="192" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603105129982" />
-    <state x="2543" y="165" key="search.everywhere.popup" timestamp="1603109592369">
+    <state x="2586" y="59" width="719" height="801" key="find.popup" timestamp="1603278697655">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
-    <state x="2543" y="165" key="search.everywhere.popup/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603109592369" />
+    <state x="2586" y="59" width="719" height="801" key="find.popup/0.0.1536.824/1920.-60.1920.1040/3840.268.1600.860@1920.-60.1920.1040" timestamp="1603278697655" />
+    <state x="2586" y="59" width="588" height="801" key="find.popup/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603273030780" />
+    <state x="2543" y="165" width="672" height="678" key="search.everywhere.popup" timestamp="1603706813430">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="165" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603706813430" />
     <state x="2710" y="250" key="svn.repositoryBrowser" timestamp="1602597878891">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
