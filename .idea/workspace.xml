@@ -14,25 +14,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="Sectie 4 : Debugging">
+      <change afterPath="$PROJECT_DIR$/directives/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/how-to-use.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/app/basic-highlight/basic-highlight.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/app/unless.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directives/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/header/header.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/header/header.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-list/recipe-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipes.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyApplication/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/tslint.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +77,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -68,13 +85,18 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProAngular/SourceCode/pro-angular-ch9-master" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="C:\javadev\gitHub\Udemy\basics-databinding-solution\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\javadev\gitHub\Udemy\directives\src\app\better-highlight" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration name="E2E Tests (ComponentsSolution1)" type="JavaScriptTestRunnerProtractor">
@@ -141,7 +163,8 @@
     <MESSAGE value="Sectie 5" />
     <MESSAGE value="Solution section 5" />
     <MESSAGE value="section 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="section 5" />
+    <MESSAGE value="sectie 6 : Course Project : Components &amp; Databinding" />
+    <option name="LAST_COMMIT_MESSAGE" value="sectie 6 : Course Project : Components &amp; Databinding" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2506" y="138" key="#Inspections" timestamp="1602755013329">
@@ -156,10 +179,10 @@
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
     <state x="2023" y="121" width="1736" height="856" key="DiffContextDialog/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603357695586" />
-    <state x="2660" y="201" key="FileChooserDialogImpl" timestamp="1603109044808">
+    <state x="2660" y="201" key="FileChooserDialogImpl" timestamp="1603716850475">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
-    <state x="2660" y="201" key="FileChooserDialogImpl/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603109044808" />
+    <state x="2660" y="201" key="FileChooserDialogImpl/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603716850475" />
     <state x="2758" y="357" key="Github.ShareDialog" timestamp="1602597931643">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
@@ -188,15 +211,19 @@
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
     <state x="2381" y="104" key="SettingsEditor/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603087965552" />
-    <state x="2472" y="192" key="Vcs.Push.Dialog.v2" timestamp="1603105129982">
+    <state x="2472" y="192" key="Vcs.Push.Dialog.v2" timestamp="1603723655584">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
-    <state x="2472" y="192" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603105129982" />
-    <state x="2586" y="59" width="719" height="801" key="find.popup" timestamp="1603278697655">
+    <state x="2472" y="192" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603723655584" />
+    <state x="2586" y="59" width="588" height="801" key="find.popup" timestamp="1603714481073">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
     <state x="2586" y="59" width="719" height="801" key="find.popup/0.0.1536.824/1920.-60.1920.1040/3840.268.1600.860@1920.-60.1920.1040" timestamp="1603278697655" />
-    <state x="2586" y="59" width="588" height="801" key="find.popup/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603273030780" />
+    <state x="2586" y="59" width="588" height="801" key="find.popup/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603714481073" />
+    <state x="2597" y="231" key="refactoring.ChangeSignatureDialog" timestamp="1603719417398">
+      <screen x="1920" y="-60" width="1920" height="1040" />
+    </state>
+    <state x="2597" y="231" key="refactoring.ChangeSignatureDialog/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603719417398" />
     <state x="2543" y="165" width="672" height="678" key="search.everywhere.popup" timestamp="1603706813430">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
