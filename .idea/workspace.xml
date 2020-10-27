@@ -14,41 +14,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="Sectie 4 : Debugging">
-      <change afterPath="$PROJECT_DIR$/directives/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/app/basic-highlight/basic-highlight.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/app/unless.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyApplication/src/app/shared/dropdown.directive.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyApplication/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +47,6 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -164,13 +133,14 @@
     <MESSAGE value="Solution section 5" />
     <MESSAGE value="section 5" />
     <MESSAGE value="sectie 6 : Course Project : Components &amp; Databinding" />
-    <option name="LAST_COMMIT_MESSAGE" value="sectie 6 : Course Project : Components &amp; Databinding" />
+    <MESSAGE value="section 7 : Directives Deep Dive" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 7 : Directives Deep Dive" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2506" y="138" key="#Inspections" timestamp="1602755013329">
+    <state x="2506" y="138" key="#Inspections" timestamp="1603793537966">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
-    <state x="2506" y="138" key="#Inspections/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1602755013329" />
+    <state x="2506" y="138" key="#Inspections/0.0.1536.824/3840.268.1600.860/1920.-60.1920.1040@1920.-60.1920.1040" timestamp="1603793537966" />
     <state x="2749" y="370" key="#TSLint" timestamp="1603185580578">
       <screen x="1920" y="-60" width="1920" height="1040" />
     </state>
