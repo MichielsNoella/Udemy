@@ -6,7 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  // servers; dit is de originele code : deze werkt zo niet servers is undefined
   servers = [];
 
   onAddServer() {
