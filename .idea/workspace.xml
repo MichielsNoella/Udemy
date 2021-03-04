@@ -14,13 +14,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="next">
-      <change afterPath="$PROJECT_DIR$/directives-start/src/app/basic-highlight/basic-highlight.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directives-start/src/app/unless.directive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shared/dropdown.directive.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/directives-start/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/directives-start/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/directives-start/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/directives-start/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/directives-start/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/directives-start/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/directives-start/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/directives-start/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/header/header.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,6 +193,7 @@
     <MESSAGE value="commit" />
     <MESSAGE value="Sectie 9:Using Services &amp; Dependency Injection" />
     <MESSAGE value="next" />
-    <option name="LAST_COMMIT_MESSAGE" value="next" />
+    <MESSAGE value="Section 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 7" />
   </component>
 </project>
