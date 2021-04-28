@@ -13,90 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="next">
-      <change afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/app/active-users/active-users.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/app/active-users/active-users.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/app/active-users/active-users.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/app/counter.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/app/inactive-users/inactive-users.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/app/inactive-users/inactive-users.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/app/inactive-users/inactive-users.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/app/users.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-assignment-solution/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/app/account/account.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/app/account/account.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/app/account/account.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/app/accounts.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/app/logging.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/app/new-account/new-account.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/app/new-account/new-account.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/app/new-account/new-account.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-start/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="new pc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -269,9 +186,9 @@
     <MESSAGE value="Sectie 10 : Course Project - Services &amp; Dependency Injection" />
     <MESSAGE value="commit" />
     <MESSAGE value="Sectie 9:Using Services &amp; Dependency Injection" />
-    <MESSAGE value="next" />
     <MESSAGE value="Section 7" />
     <MESSAGE value="Section 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 8" />
+    <MESSAGE value="next" />
+    <option name="LAST_COMMIT_MESSAGE" value="next" />
   </component>
 </project>
