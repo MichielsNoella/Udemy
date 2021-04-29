@@ -13,25 +13,123 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="new pc">
+    <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/routing-start/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/how-to-use.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/edit-server/edit-server.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/edit-server/edit-server.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/edit-server/edit-server.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/server/server.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/server/server.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/server/server.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/servers.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/servers/servers.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/users/user/user.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/users/user/user.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/users/user/user.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/users/users.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/users/users.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/app/users/users.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routing-start/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeApplication/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeApplication/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe.model.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipes.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipes.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/header/header.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-detail/recipe-detail.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-edit/recipe-edit.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-edit/recipe-edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-edit/recipe-edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-list/recipe-item/recipe-item.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-list/recipe-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-start/recipe-start.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-start/recipe-start.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe-start/recipe-start.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipe.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipes.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipes.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/recipes/recipes.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/shared/dropdown.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/shared/ingredients.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/shopping-list/shopping-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/shopping-list/shopping-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/app/shopping-list/shopping-list.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeApplication/tslint.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +141,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -89,7 +188,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.18600683" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="C:\javadev\gitHub\Udemy\RecipeApplication\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\javadev\gitHub\Udemy\RecipeShopping\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -178,8 +277,20 @@
       <workItem from="1619595256061" duration="605000" />
       <workItem from="1619597299657" duration="1715000" />
       <workItem from="1619605721661" duration="4380000" />
-      <workItem from="1619613697184" duration="1103000" />
+      <workItem from="1619613697184" duration="1887000" />
+      <workItem from="1619615619107" duration="622000" />
+      <workItem from="1619675778153" duration="1257000" />
+      <workItem from="1619677187046" duration="48000" />
+      <workItem from="1619683545154" duration="6485000" />
     </task>
+    <task id="LOCAL-00001" summary="Sectie 10: Course Project - Services&#10;&amp; Dependency Injection">
+      <created>1619615151629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619615151629</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +333,7 @@
     <MESSAGE value="Section 7" />
     <MESSAGE value="Section 8" />
     <MESSAGE value="next" />
-    <option name="LAST_COMMIT_MESSAGE" value="next" />
+    <MESSAGE value="Sectie 10: Course Project - Services&#10;&amp; Dependency Injection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sectie 10: Course Project - Services&#10;&amp; Dependency Injection" />
   </component>
 </project>
