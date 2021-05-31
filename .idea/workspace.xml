@@ -13,23 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="Sectie 11: Changing Pagex with Routing">
-      <change afterPath="$PROJECT_DIR$/RecipeShopping/src/app/app-routing-module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/header/header.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/header/header.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-edit/recipe-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-edit/recipe-edit.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-list/recipe-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipes.component.html" afterDir="false" />
-    </list>
+    <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +70,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.18600683" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
     <property name="ts.external.directory.path" value="C:\javadev\gitHub\Udemy\routing-start\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
@@ -195,7 +179,7 @@
       <workItem from="1620028680220" duration="612000" />
       <workItem from="1620111488195" duration="6775000" />
       <workItem from="1620648959536" duration="1432000" />
-      <workItem from="1622462777898" duration="3959000" />
+      <workItem from="1622462777898" duration="4107000" />
     </task>
     <task id="LOCAL-00001" summary="Sectie 10: Course Project - Services&#10;&amp; Dependency Injection">
       <created>1619615151629</created>
@@ -211,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619699814198</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Sectie 12: Course Project - Routing">
+      <created>1622468632520</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622468632520</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +247,7 @@
     <MESSAGE value="next" />
     <MESSAGE value="Sectie 10: Course Project - Services&#10;&amp; Dependency Injection" />
     <MESSAGE value="Sectie 11: Changing Pagex with Routing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sectie 11: Changing Pagex with Routing" />
+    <MESSAGE value="Sectie 12: Course Project - Routing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sectie 12: Course Project - Routing" />
   </component>
 </project>
