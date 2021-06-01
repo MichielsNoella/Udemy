@@ -13,7 +13,47 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="" />
+    <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/observables/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/how-to-use.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/app/user.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/app/user/user.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/app/user/user.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/app/user/user.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/observables/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,13 +124,15 @@
     </key>
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -179,7 +221,8 @@
       <workItem from="1620028680220" duration="612000" />
       <workItem from="1620111488195" duration="6775000" />
       <workItem from="1620648959536" duration="1432000" />
-      <workItem from="1622462777898" duration="4107000" />
+      <workItem from="1622462777898" duration="4522000" />
+      <workItem from="1622532668941" duration="3703000" />
     </task>
     <task id="LOCAL-00001" summary="Sectie 10: Course Project - Services&#10;&amp; Dependency Injection">
       <created>1619615151629</created>
@@ -202,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622468632520</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sectie 12: Course Project - Routing">
+      <created>1622468958067</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622468958067</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
