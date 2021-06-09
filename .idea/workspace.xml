@@ -15,10 +15,11 @@
   <component name="ChangeListManager">
     <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics-components/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/basics-components/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms-reactive-exercise/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/forms-reactive-exercise/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms-reactive/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms-reactive/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/forms-reactive/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +91,17 @@
     </key>
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E2E Tests (AngularFire)" type="JavaScriptTestRunnerProtractor">
       <config-file value="$PROJECT_DIR$/AngularFire/e2e/protractor.conf.js" />
       <node-interpreter value="project" />
@@ -181,6 +193,7 @@
       <workItem from="1623060949035" duration="1310000" />
       <workItem from="1623065374144" duration="2009000" />
       <workItem from="1623068875693" duration="41000" />
+      <workItem from="1623237080010" duration="4537000" />
     </task>
     <task id="LOCAL-00001" summary="Sectie 10: Course Project - Services&#10;&amp; Dependency Injection">
       <created>1619615151629</created>
@@ -231,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622720410021</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Forms Reactive">
+      <created>1623237163906</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623237163906</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
