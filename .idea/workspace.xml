@@ -14,104 +14,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/app/custom-validators.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive-exercise/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-reactive/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/how-to-use.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms-td/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics-components/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/basics-components/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms-reactive-exercise/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/forms-reactive-exercise/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms-reactive/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms-reactive/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/forms-reactive/src/app/app.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +77,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.18600683" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
-    <property name="ts.external.directory.path" value="C:\javadev\gitHub\Udemy\routing-start\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\javadev\gitHub\Udemy\forms-td\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -270,7 +177,10 @@
       <workItem from="1622462777898" duration="4522000" />
       <workItem from="1622532668941" duration="5728000" />
       <workItem from="1622619822684" duration="3417000" />
-      <workItem from="1622700458959" duration="5143000" />
+      <workItem from="1622700458959" duration="5786000" />
+      <workItem from="1623060949035" duration="1310000" />
+      <workItem from="1623065374144" duration="2009000" />
+      <workItem from="1623068875693" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="Sectie 10: Course Project - Services&#10;&amp; Dependency Injection">
       <created>1619615151629</created>
@@ -314,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622553244257</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Forms Reactive">
+      <created>1622720410021</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622720410021</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,6 +279,7 @@
     <MESSAGE value="Sectie 12: Course Project - Routing" />
     <MESSAGE value="Sectie 13 : Understanding Observables" />
     <MESSAGE value="Sectie 14 : Course Project - Observables" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sectie 14 : Course Project - Observables" />
+    <MESSAGE value="Forms Reactive" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forms Reactive" />
   </component>
 </project>
