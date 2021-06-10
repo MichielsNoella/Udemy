@@ -15,11 +15,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4adbe29d-9fc1-4f9e-a550-ef313e630d72" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/shopping-list/shopping-list.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-edit/recipe-edit.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-edit/recipe-edit.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-edit/recipe-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-edit/recipe-edit.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-edit/recipe-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RecipeShopping/src/app/recipes/recipe-edit/recipe-edit.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +76,8 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.18600683" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
-    <property name="ts.external.directory.path" value="C:\javadev\gitHub\Udemy\forms-td\node_modules\typescript\lib" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+    <property name="ts.external.directory.path" value="C:\javadev\gitHub\Udemy\forms-reactive\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -91,17 +90,6 @@
     </key>
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="E2E Tests (AngularFire)" type="JavaScriptTestRunnerProtractor">
       <config-file value="$PROJECT_DIR$/AngularFire/e2e/protractor.conf.js" />
       <node-interpreter value="project" />
@@ -193,7 +181,8 @@
       <workItem from="1623060949035" duration="1310000" />
       <workItem from="1623065374144" duration="2009000" />
       <workItem from="1623068875693" duration="41000" />
-      <workItem from="1623237080010" duration="4537000" />
+      <workItem from="1623237080010" duration="6154000" />
+      <workItem from="1623316193288" duration="8398000" />
     </task>
     <task id="LOCAL-00001" summary="Sectie 10: Course Project - Services&#10;&amp; Dependency Injection">
       <created>1619615151629</created>
@@ -251,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623237163906</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Sectie 16 : Cours project - Forms (Template-Driven)">
+      <created>1623242444869</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1623242444869</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +296,7 @@
     <MESSAGE value="Sectie 13 : Understanding Observables" />
     <MESSAGE value="Sectie 14 : Course Project - Observables" />
     <MESSAGE value="Forms Reactive" />
-    <option name="LAST_COMMIT_MESSAGE" value="Forms Reactive" />
+    <MESSAGE value="Sectie 16 : Cours project - Forms (Template-Driven)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sectie 16 : Cours project - Forms (Template-Driven)" />
   </component>
 </project>
